@@ -1,7 +1,7 @@
 package com.springcloud.server.payment.controller;
 
-import com.springcloud.common.CommonResult;
-import com.springcloud.common.Payment;
+import com.springcloud.common.bean.CommonResult;
+import com.springcloud.common.bean.Payment;
 import com.springcloud.server.payment.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.springcloud.common;
+package com.springcloud.common.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

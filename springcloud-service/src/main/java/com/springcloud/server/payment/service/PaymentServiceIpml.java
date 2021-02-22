@@ -1,6 +1,6 @@
 package com.springcloud.server.payment.service;
 
-import com.springcloud.common.Payment;
+import com.springcloud.common.bean.Payment;
 import com.springcloud.server.payment.dao.PaymentDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
